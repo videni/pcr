@@ -1,0 +1,13 @@
+{
+    "name": "videni/pcr",
+    "description": "中国全国最新省市区三级数据",
+    "type": "library",
+    "keywords": ["中国", "省市区", "地址"],
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Vidy Videni",
+            "homepage": "http://www.videni.org"
+        }
+    ]
+}
