@@ -23,8 +23,8 @@
 
 * 邻接模型 
 * 嵌套集模型
-* 省市区每个单独表模型。 
-
+* 省市区每个单独表模型
+ 
 2. 一个的PHP库，封装实现省市区级联操作功能。
 
 3. 与Symfony集成。 
@@ -35,6 +35,9 @@
 * 也可以XSL，JSON，CSV格式下载。
 * 提供三种模型的SQL结构化数据
 
+# 额外
+
+使用[pcr-shell](https://github.com/videni/pcr-shell)可将excel转换为sqlite数据库文件
 
 # 更改日志
 
